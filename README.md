@@ -122,7 +122,10 @@ An AI Skill configuration for automatically generating illustrations for long-fo
 
 ## 📸 Preview
 
-![Example 1](preview/案例1.png)
+| | |
+|:---:|:---:|
+| ![案例1](preview/案例1.png) | ![案例2](preview/案例2.png) |
+| ![案例3](preview/案例3.png) | ![案例4](preview/案例4.png) |
 
 ## 📄 License
 
